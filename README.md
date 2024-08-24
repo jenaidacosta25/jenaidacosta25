@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jenaidacosta25 or Tati
 - 👀 I’m interested in Bioinformatics, Motorcycles, 
 - 🌱 I’m currently learning Bioinformatics, Computational Science, and Chemoinformatics.
-- 📫 How to reach me here on GitHub or tatia2012@gmail.com
+- 📫 How to reach me here on GitHub
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have two dogs(Corgi and Swedish Vallhund) who ride motorcycles with me!
 
